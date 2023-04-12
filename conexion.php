@@ -1,6 +1,6 @@
 <?php
 	function conexion(){
-	$host = "host=containers-us-west-20.railway.appv";
+	$host = "host=containers-us-west-20.railway.app";
 	$port = "port=6240";
 	$dbname = "dbname=railway";
 	$user = "user=postgres";
